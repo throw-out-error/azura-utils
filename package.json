@@ -1,15 +1,15 @@
 {
-  "name": "azuracast",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^2.6.1"
-  }
+    "name": "@toes/azura-utils",
+    "version": "1.0.0",
+    "description": "Azuracast Utility Library",
+    "main": "azura.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Theo Paris",
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
 }
